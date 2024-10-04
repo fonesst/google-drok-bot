@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Укажите токен вашего бота
-TOKEN = 'ВАШ_ТОКЕН_БОТА'
+TOKEN = '7368730334:AAH9xUG8G_Ro8mvV_fDQxd5ddkwjxHnBoeg'
 
 # Создаем объект бота
 bot = telebot.TeleBot(TOKEN)
